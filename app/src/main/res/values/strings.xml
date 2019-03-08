@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BeaconTest</string>
+    <string name="ble_not_supported">Your device does not support BLE</string>
 </resources>
